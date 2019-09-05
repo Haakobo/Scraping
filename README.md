@@ -1,2 +1,4 @@
-# Scraping
-Within the framework of the project I scraped a Web page of one of Armenia's telecommunication companies. As my company's proxy server block the variety of websites, I decided with my colleague to download web page as html file and then proceed on scraping. R was the most convenient tool for this purpose.
+#Scraping
+
+Hi dears,
+I am Hakob. I am enthusiastic about data science, statistics and machine learning. However apart from job I am passionate about spending my time in nature. Mountains, rivers and other stuff like this.
